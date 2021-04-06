@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Paths>
+  <BubbleSort>C:\Users\diyll\Laboratory\ConsoleApp2\Data.txt</BubbleSort>
+  <QSort>C:\Users\diyll\Laboratory\ConsoleApp2\Data.txt</QSort>
+  <TreeSort>C:\Users\diyll\Laboratory\ConsoleApp2\Data.txt</TreeSort>
+  <InsertionSort>C:\Users\diyll\Laboratory\ConsoleApp2\Data.txt</InsertionSort>
+  <MergeSort>C:\Users\diyll\Laboratory\ConsoleApp2\Data.txt</MergeSort>
+  <HeapSort>C:\Users\diyll\Laboratory\ConsoleApp2\Data.txt</HeapSort>
+  <RadixSort>C:\Users\diyll\Laboratory\ConsoleApp2\Data.txt</RadixSort>
+  <RedBlackTreeSort>C:\Users\diyll\Laboratory\ConsoleApp2\Data.txt</RedBlackTreeSort>
+</Paths>
